@@ -1,0 +1,86 @@
+TODOS: 
+entender MessagePack
+terminar os tuto do edgesimpy
+
+não entendi nada do tutorial 3 (monitoring-simulation) provavelmente pq n entendo nd de message pack
+
+Organização para o TCC I
+
+Comparação de políticas para escalonamento de tarefas em Edge-Cloud Continuum
+
+Resumo
+
+Usar o plano
+
+1) Introdução
+
+Usar o plano
+
+2) Revisão de literatura
+
+2.1) Evolução de Cloud para Edge Computing
+
+Uma nuvem computacional é.... [Mell and Grace, 2011].
+
+Uma Edge Computing é .... [2015]
+
+Mas e a evolução? Motivo --> Bittencourt
+
+Hoje existe Edge-Cloud Continuum
+
+2.2) Aplicações e tarefas
+
+[Rodrigues 2023]
+
+O que pode ser executado em ECC? Survey ---> Applications --> elencar, mostrar umas 2 ou 3.
+
+2.3) Escalonamento em ECC
+
+O que é escalonar?
+- Parâmetros e variáveis
+- Objetivos
+- Requisições
+- Representação dos servidores (físico ECC)
+
+2.4) Políticas de escalonamento
+
+Elencar e explicar algumas
+- FirstFit
+- BestFit
+- WorstFit
+- RoundRobin
+- Shortest Area First (SAF)
+- Shortest Job First (SJF)
+- F1, ..., F4
+- Rede!
+
+sort(atributos)
+
+2.x) Trabalhos relacionados
+
+3) Protocolo de simulação
+
+3.1) Simulador EdgeSimPy (aqui)
+- Explicar como ele funciona
+
+3.2) Configuração do cenário
+- ECC
+- Carga
+
+3.3) Mobilidade de usuários
+- Pathway
+- Random
+
+4) Análise de resultados (não entra no TCC-I)
+
+4.1) Métricas
+4.2) Resultados e gráficos
+
+5) Conclusões
+
+Planejamento interno:
+
+- cronograma: 21/09 (esqueleto montado, ctrl + c, +v, evolução)
+- deadline 16/11 -> 10/11
+- setembro+outubro --> texto
+- novembro --> testes
