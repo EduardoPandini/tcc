@@ -53,7 +53,7 @@ import os
 import random
 
 # Defining a seed value to enable reproducible outcomes
-random.seed(1)
+random.seed(30544448)
 
 
 map_coordinates = hexagonal_grid(x_size=3, y_size=3)
