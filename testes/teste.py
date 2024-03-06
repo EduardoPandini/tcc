@@ -9,7 +9,7 @@ import random
 import msgpack
 import pandas as pd
 
-
+#como q usa samerda de git por terminal
 
 def my_algorithm(parameters):
     # We can always call the 'all()' method to get a list with all created instances of a given class

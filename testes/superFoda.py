@@ -263,4 +263,3 @@ print("=== EDGE SERVERS' POWER CONSUMPTION ===")
 edge_servers_power_consumption = dict(datasets["EdgeServer"].groupby('Object')['Power Consumption'].apply(list))
 for edge_server, power_consumption in edge_servers_power_consumption.items():
     print(f"{edge_server}. Power Consumption per Step: {power_consumption}")
-
