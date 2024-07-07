@@ -1,0 +1,9 @@
+python -B -m simulation --dataset "datasets/dataset1.json" --algorithm "modeloteste"
+
+
+
+ar 39 +19 58
+th 20 +28 48
+fat 49 +17 66
+dcf 34 +22 56
+spp 56 +13 69
